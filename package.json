@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-noteapp",
+  "version": "1.0.0",
+  "description": "Practice application with NodeJS (note app)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@tangallangh:tangallan/nodejs-noteapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "validator": "^10.8.0"
+  }
+}
