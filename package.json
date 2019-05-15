@@ -13,7 +13,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^12.0.0",
+    "@types/yargs": "^13.0.0",
     "chalk": "^2.4.1",
-    "validator": "^10.8.0"
+    "validator": "^10.8.0",
+    "yargs": "^13.2.2"
   }
 }
